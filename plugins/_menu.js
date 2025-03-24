@@ -36,7 +36,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "🇱🇰",
+    react: "🪰",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
@@ -150,9 +150,9 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
-  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing RCD-MD 👍
+  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing GHOST-MD 👍
 │└────────────┈ ⳹        
-│*©2024 RCD *
+│*©2025 GHOST TEAM  *
 └─────────────────┈ ⳹
   \n${readmore}\n`;
 
