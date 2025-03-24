@@ -9,8 +9,8 @@
 
 
 
-<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
-</p>         ⚔ 𝐆𝐇𝐎𝐒𝐓 𝐌𝐃 ⚔
+<img src="https://i.ibb.co/Kzm705bG/9967.jpg" width="540" height="280" />
+</p>         ⚔ 𝐆𝐇𝐎𝐒𝐓 𝐌𝐃 𝐕3 ⚔
 
 ### Setup
 
