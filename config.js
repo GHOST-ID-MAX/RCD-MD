@@ -12,14 +12,14 @@ global.sudo = process.env.SUDO
   : "null";
 global.owner = process.env.OWNER_NUMBER
   ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
-  : "94789958225";
+  : "94787438929";
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://media-hosting.imagekit.io//c14a69e57d6d4264/IMG-20250324-WA0015.jpg?Expires=1837395683&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gHC7uDSwPRwTHqPUNNFbT-8E01DAZbFV1TxE8Nzj1hj6wrhAlud6-x9Ij~5PcYZVW-Qtf59ExzmifFq-BwQX5lhaTm9vV7MyUM6zOvFSmqff~qsrBcfmMXppp-xd8U09XOCN~WzpFtXpQ3mld5mT-9CrgTxTmGSGCcFQrLbyZ~CYFBa2Kc6nCmSYP1~DJ58BeOI30DhHqUYKl7dM7I2Qq1gC-n1dn7Fyc9FqP4PPEWsg74hMeHMYX1F1ChuAQj2dRMyyfgDoVCEXDWtDkg8D1PNN6KnRYWq0Enyhxjb1gKHENLrgyzMZ2q0pGIt0jLz6e32tihD7dg9KJ68LmDYjkw__";
+  "https://i.ibb.co/j9Wt7G6Y/SulaMd.jpg";
 global.userImages =
   process.env.USER_IMAGES ||
-  "https://media-hosting.imagekit.io//c14a69e57d6d4264/IMG-20250324-WA0015.jpg?Expires=1837395683&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gHC7uDSwPRwTHqPUNNFbT-8E01DAZbFV1TxE8Nzj1hj6wrhAlud6-x9Ij~5PcYZVW-Qtf59ExzmifFq-BwQX5lhaTm9vV7MyUM6zOvFSmqff~qsrBcfmMXppp-xd8U09XOCN~WzpFtXpQ3mld5mT-9CrgTxTmGSGCcFQrLbyZ~CYFBa2Kc6nCmSYP1~DJ58BeOI30DhHqUYKl7dM7I2Qq1gC-n1dn7Fyc9FqP4PPEWsg74hMeHMYX1F1ChuAQj2dRMyyfgDoVCEXDWtDkg8D1PNN6KnRYWq0Enyhxjb1gKHENLrgyzMZ2q0pGIt0jLz6e32tihD7dg9KJ68LmDYjkw__";
+  "https://i.ibb.co/j9Wt7G6Y/SulaMd.jpg";
 ///===========[global iMPORTS]====================//
 
 module.exports = {
@@ -68,7 +68,7 @@ global.waPresence = process.env.WAPRESENCE || "null";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null";
-global.read_status = process.env.AUTO_READ_STATUS || "false";
+global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "null";
 global.read_status_from = process.env.READ_STATUS_FROM || "null";
