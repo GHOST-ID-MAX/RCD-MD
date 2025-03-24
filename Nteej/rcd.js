@@ -1,4 +1,4 @@
 {
-	"name": "Rcd md "
+	"name": "Ghost md "
 }
 //dont edit this please else bot wont work
