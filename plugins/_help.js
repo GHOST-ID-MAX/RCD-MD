@@ -1,4 +1,4 @@
-//RCD
+//GHOST
 const os = require("os");
 const fs = require("fs");
 const Config = require("../config");
@@ -31,11 +31,11 @@ smd(
 ➮ʀᴜɴᴛɪᴍᴇ - ${runtime(process.uptime())} 
 ➮ᴅᴀᴛᴇ - ${message.date} 
 ➮ɴᴏᴡ ᴛɪᴍᴇ - ${message.time} 
-➮Fᴏᴜɴᴅᴇʀ- *RCD*
+➮Fᴏᴜɴᴅᴇʀ- *GHOST TEAM*
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *RCD-MD A SIMPLE WHATSAPP BOT WITH RICH LIBRARY CREATE BY RCD*\n\n ${readmore} 
+      \n *GHOST-MD A SIMPLE WHATSAPP BOT WITH RICH LIBRARY CREATE BY GHOST TEAM*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
@@ -197,7 +197,7 @@ astro_patch.smd(
     const { key } = await message.reply("*Testing Ping!!!*");
     var endTime = new Date().getTime();
     return await message.send(
-      `*Pong*\n *${endTime - startTime} ms*`,
+      `*GHOST MD SPEED*\n *${endTime - startTime} ms*`,
       {
         edit: key,
       },
